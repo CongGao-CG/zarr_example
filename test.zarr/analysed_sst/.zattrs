@@ -1,0 +1,16 @@
+{
+    "_ARRAY_DIMENSIONS": [
+        "time",
+        "lat",
+        "lon"
+    ],
+    "add_offset": 295.6499938964844,
+    "coverage_content_type": "physicalMeasurement",
+    "long_name": "analysed sea surface temperature",
+    "scale_factor": 0.0008392590098083019,
+    "source": "REMSS-L3C-AMSR2,REMSS-L3C-GMI",
+    "standard_name": "sea_surface_foundation_temperature",
+    "units": "K",
+    "valid_max": 32767,
+    "valid_min": -32767
+}

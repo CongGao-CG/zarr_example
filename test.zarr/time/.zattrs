@@ -1,0 +1,11 @@
+{
+    "_ARRAY_DIMENSIONS": [
+        "time"
+    ],
+    "axis": "T",
+    "calendar": "proleptic_gregorian",
+    "coverage_content_type": "coordinate",
+    "long_name": "nominal time of L4 analysis",
+    "standard_name": "time",
+    "units": "seconds since 1981-01-01"
+}

@@ -1,0 +1,21 @@
+{
+    "_ARRAY_DIMENSIONS": [
+        "time",
+        "lat",
+        "lon"
+    ],
+    "coverage_content_type": "referenceInformation",
+    "flag_masks": [
+        1,
+        2,
+        4,
+        8,
+        16,
+        32,
+        64
+    ],
+    "flag_meanings": "water land optional_lake_surface sea_ice optional_river_surface IR_data MW_data",
+    "long_name": "land sea ice lake bit mask",
+    "valid_max": 127,
+    "valid_min": 0
+}

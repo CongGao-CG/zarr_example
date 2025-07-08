@@ -1,0 +1,14 @@
+{
+    "_ARRAY_DIMENSIONS": [
+        "time",
+        "lat",
+        "lon"
+    ],
+    "add_offset": 0.5,
+    "coverage_content_type": "qualityInformation",
+    "long_name": "estimated error standard deviation of analysed_sst",
+    "scale_factor": 1.5259254723787308e-05,
+    "units": "K",
+    "valid_max": 32767,
+    "valid_min": -32767
+}
